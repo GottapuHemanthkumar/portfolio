@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: black;
+    color:snow;
+    word-spacing: 10px;
+    padding:10px;
+
+}
+ul li{
+    display:inline;
+    padding:10px;
+    
+}
+ul li a{
+    text-decoration:none;
+}
+#portfolio{
+    background-color:pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#bio{
+
+    padding-top: 10px;
+}
+#skills{
+    background-color:skyblue;
+    padding: 10px;
+}
+#contact{
+    background-color:palegreen;
+    padding: 10px;
+}
+#footer{
+    background-color:lightpink;
+    padding: 10px;
+}
+#home img{
+    border-radius: 50%;
+}
